@@ -15,7 +15,15 @@ I found the Prius dashboard image at https://dashcare.com/images/F143834633.jpg
 The miles per gallon graph was something I remembered from when I drove a Prius, where it was very useful.
 The Prius displayed speed as a number, which made it more possible to finely tune exactly how fast I was going.
 The placement of the car information section closer to the windshield instead of behind the steering wheel potentially made it easier to keep one's eyes on the road, but resulted in less detail being possible due to the increased distance from the user. Statistics such as fuel usage over time were given a place separate from the main LCD, allowing them to be visible at all times.
+The Prius uses a thermostat based temperature control system, which can be nice if you start driving when it is warm but later it gets cold.
 
 The images labeled "ruby display" are from an older car. There is no information like outside temperature or current miles per gallon, and there is limited real estate for indicator lights. It does show marks for both km/h and mph which is nice.
 
 The image "carclockpic" is from the time adjustment menu of my own car, showing how 24 hour time vs 12 hour time, hours, and minutes can be adjusted separately. The variable being adjusted is selected using the left and right menu navigation buttons on the steering wheel or the skip forward or back buttons and the value of the variable is set using the volume buttons or dial. It is the best button-based time setting screen I have used across cars, ovens, microwaves, and alarm clocks.
+
+The images "center console" and "main menu" are from my car.
+Most of the buttons on the center console are concerned with operation of the music system.
+The buttons 1 2 3 4 5 6 are for selecting which CD is being played from if it is in CD mode.
+FM AM CD and AUX select which input type, but lack an option for selecting the bluetooth input which must be done from a menu.
+The Phone button has limited utility because of how difficult it is to set up the car to take phone calls from your phone, or connect it via bluetooth in the first place.
+Instead of a thermostat, this car allows the fan strength and air temperature to be directly controlled. This is useful for if you want to directly control the temperature of the air being blown instead of trying to maintain a given temperature in the car. For example if you and the car are hot from having been in the sun before driving, you will want to run it on maximum coldness until you cool down and then possibly switch to an intermediate temperature. 
