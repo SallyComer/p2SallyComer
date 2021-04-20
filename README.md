@@ -10,3 +10,12 @@ The car does display the estimated number of miles that it can drive, which mean
 
 An issue I have noticed when using my car to play music is that while I can skip ahead or back in a list of songs (either on a CD or on a bluetooth device) I cannot pause.
 It would not be a substantial change and it would improve the ability to control the audio.
+
+I found the Prius dashboard image at https://dashcare.com/images/F143834633.jpg
+The miles per gallon graph was something I remembered from when I drove a Prius, where it was very useful.
+The Prius displayed speed as a number, which made it more possible to finely tune exactly how fast I was going.
+The placement of the car information section closer to the windshield instead of behind the steering wheel potentially made it easier to keep one's eyes on the road, but resulted in less detail being possible due to the increased distance from the user. Statistics such as fuel usage over time were given a place separate from the main LCD, allowing them to be visible at all times.
+
+The images labeled "ruby display" are from an older car. There is no information like outside temperature or current miles per gallon, and there is limited real estate for indicator lights. It does show marks for both km/h and mph which is nice.
+
+The image "carclockpic" is from the time adjustment menu of my own car, showing how 24 hour time vs 12 hour time, hours, and minutes can be adjusted separately. The variable being adjusted is selected using the left and right menu navigation buttons on the steering wheel or the skip forward or back buttons and the value of the variable is set using the volume buttons or dial. It is the best button-based time setting screen I have used across cars, ovens, microwaves, and alarm clocks.
