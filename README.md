@@ -27,3 +27,9 @@ The buttons 1 2 3 4 5 6 are for selecting which CD is being played from if it is
 FM AM CD and AUX select which input type, but lack an option for selecting the bluetooth input which must be done from a menu.
 The Phone button has limited utility because of how difficult it is to set up the car to take phone calls from your phone, or connect it via bluetooth in the first place.
 Instead of a thermostat, this car allows the fan strength and air temperature to be directly controlled. This is useful for if you want to directly control the temperature of the air being blown instead of trying to maintain a given temperature in the car. For example if you and the car are hot from having been in the sun before driving, you will want to run it on maximum coldness until you cool down and then possibly switch to an intermediate temperature. 
+
+The image "status display" is from my car.
+I based my drawing "Dials" mainly off of my car.
+The specialized display that the Prius uses is harder for people more used to conventional cars to make sense of, and lacks certain information.
+Similar to Ruby's car, my car has unit measurements for both km/h and mph.
+My car has all of the recommended display units.
