@@ -7,3 +7,6 @@ The size of the window and the number of bars could be customizable in some way.
 Another issue is that the number of marks on the fuel gauge does not correspond to an even multiple or fraction of the number of gallons that the tank can hold.
 This presents a problem when trying to estimate the price of filling the tank, or how much a given sum of money will fill the tank.
 The car does display the estimated number of miles that it can drive, which means it is capable of digitally measuring the gas level in the tank.
+
+An issue I have noticed when using my car to play music is that while I can skip ahead or back in a list of songs (either on a CD or on a bluetooth device) I cannot pause.
+It would not be a substantial change and it would improve the ability to control the audio.
